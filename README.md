@@ -1,5 +1,6 @@
 ##iOS-Flip-Transform  
 
+
 Animation component for the effect of flipping as in a news/clock ticker, or a page turn. 
 
 Structured around the idea of a data object (i.e. headline in news, number in a clock, page in a book) as an animation frame, comprised of multiple CALayers.  
